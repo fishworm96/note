@@ -1,4 +1,4 @@
-## package main
+## package zlib
 
 import "compress/zlib"
 

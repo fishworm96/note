@@ -1,4 +1,4 @@
-## package main
+## package lzw
 
 import "compress/lzw"
 
