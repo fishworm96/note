@@ -318,4 +318,3 @@ ImportDir 是 Default.ImportDir 的简称。
 
 #### func (p *Package) IsCommand() bool
 
-IsCommand 报告软件包是否被视为要安装的命令（而不仅仅是库）。名为 "main "的软件包被视为命令。
